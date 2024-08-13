@@ -1,0 +1,40 @@
+{
+    "title": "تولید کننده کلید Hamster Kombat",
+    "generateButton": "تولید کلیدها",
+    "generatedKeysTitle": "کلیدهای تولید شده:",
+    "footerButton": "قدرت گرفته از پروژه PDoSI",
+    "copyKeyButton": "کپی کردن کلید",
+    "keyCopied": "کلید کپی شد",
+    "copyAllKeysButton": "کپی کردن همه کلیدها",
+    "allKeysCopied": "همه کلیدها کپی شد",
+    "selectKeyCountLabel": "تعداد کلیدها برای تولید را انتخاب کنید:",
+    "selectKeyCountLabel_selected": "تعداد کلیدهای انتخاب شده برای تولید: ",
+    "selectGameLabel": "بازی را برای تولید کلیدها انتخاب کنید:"
+}
+{
+    "title": "Générateur de Clés Hamster Kombat",
+    "generateButton": "Générer des clés",
+    "generatedKeysTitle": "Clés générées :",
+    "footerButton": "Développé par Project PDoSI",
+    "copyKeyButton": "Copier la clé",
+    "keyCopied": "Clé copiée",
+    "copyAllKeysButton": "Copier toutes les clés",
+    "allKeysCopied": "Toutes les clés copiées",
+    "selectKeyCountLabel": "Sélectionnez le nombre de clés à générer :",
+    "selectKeyCountLabel_selected": "Nombre de clés sélectionnées pour la génération : ",
+    "selectGameLabel": "Sélectionnez le jeu pour générer les clés :"
+}
+{
+    "title": "Hamster Kombat Key Generator",
+    "generateButton": "Generate Keys",
+    "generatedKeysTitle": "Generated Keys:",
+    "footerButton": "Powered by Project PDoSI",
+    "copyKeyButton": "Copy Key",
+    "keyCopied": "Key Copied",
+    "copyAllKeysButton": "Copy All Keys",
+    "allKeysCopied": "All Keys Copied",
+    "selectKeyCountLabel": "Select the number of keys to generate:",
+    "selectKeyCountLabel_selected": "The selected number of keys to generate: ",
+    "selectGameLabel": "Select the game to generate the keys:"
+}
+
